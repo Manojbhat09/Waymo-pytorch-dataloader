@@ -2,7 +2,7 @@
 # Waymo pytorch Dataloader
 
 Pytorch dataloader for object detection tasks
-- Quick attacj to your kitti training files
+- Quick attach to your kitti training files
 - Has kitti format of calibration and label object
 - Uses only top lidar and all 5 images
 - Only serial dataloader
